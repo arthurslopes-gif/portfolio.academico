@@ -9,7 +9,7 @@ A atividade foi construída aplicando as melhores práticas de versionamento com
 ## 🔗 Links do Projeto
 * **LinkedIn:** https://www.linkedin.com/in/arthur-silva-lopes-a22b93378/details/projects/
 * **GitHub Pages (Site Oficial):** https://github.com/arthurslopes-gif/portfolio.academico
-* **Apresentação no YouTube:** 
+* **Apresentação no YouTube:** https://youtu.be/KAq4ojNrs7k
 
 ---
 
